@@ -15,7 +15,7 @@ Ons leer is plantaardig gelooid en elk product wordt met de hand afgewerkt in on
 
 ## Waar te vinden
 
-- [beocca.com](https://beocca.com) (Shopify)
+- [beocca.com](https://beocca.com)
 - Bol.com
 - Amazon NL, DE en FR
 - Etsy
