@@ -1,0 +1,61 @@
+name: Feature request
+description: Een nieuwe functionaliteit of verbetering voorstellen
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Welk probleem los je hiermee op?
+      description: Begin met de pijn, niet met de oplossing.
+      placeholder: "Klanten verlaten de checkout omdat ze niet zien wanneer hun pakket aankomt."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Voorgestelde oplossing
+      description: Hoe zou dit eruit kunnen zien?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatieven overwogen
+      description: Andere routes die je hebt bekeken, en waarom je deze beter vindt.
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Welk onderdeel raakt dit?
+      multiple: true
+      options:
+        - Shopify storefront (Clutch theme)
+        - Checkout
+        - Klaviyo / email
+        - Bol.com
+        - Amazon
+        - Moneybird / boekhouding
+        - Interne tooling
+        - Anders
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Urgentie (eigen inschatting)
+      options:
+        - Laag — nice to have
+        - Medium — zou waarde toevoegen
+        - Hoog — kost nu actief geld of tijd
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context
+      description: Mockups, links, klantcitaten, data — alles wat helpt.
