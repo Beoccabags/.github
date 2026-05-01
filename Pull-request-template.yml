@@ -1,0 +1,47 @@
+<!--
+  Bedankt voor je PR. Vul onderstaande secties in waar relevant.
+  Velden die niet van toepassing zijn mag je weghalen.
+-->
+
+## Wat verandert er
+
+<!-- Korte omschrijving in 1–3 zinnen. Wat doet deze PR, en waarom? -->
+
+## Gerelateerd issue
+
+Closes #
+
+## Type wijziging
+
+- [ ] Bugfix (`fix:`)
+- [ ] Nieuwe functionaliteit (`feat:`)
+- [ ] Breaking change (`feat!:` / `fix!:`)
+- [ ] Refactor (geen gedragsverandering)
+- [ ] Docs / chore / config
+
+## Hoe getest
+
+<!--
+  Beschrijf kort hoe je dit hebt gevalideerd. Bijvoorbeeld:
+  - "Lokaal getest met dummy checkout, event komt aan in Klaviyo Live Activity"
+  - "Unit tests toegevoegd in cart-restore.test.ts"
+  - "Visueel getest in Shopify preview op desktop + mobiel"
+-->
+
+## Screenshots / opnames
+
+<!-- Voor UI-wijzigingen. Voor/na helpt enorm. -->
+
+## Checklist
+
+- [ ] Branch volgt de [naming convention](https://github.com/beocca/.github/blob/main/README.md#branch-naming)
+- [ ] Commit messages volgen [Conventional Commits](https://www.conventionalcommits.org/)
+- [ ] Self-review op de diff gedaan
+- [ ] Tests toegevoegd of aangepast waar relevant
+- [ ] Documentatie / README bijgewerkt waar relevant
+- [ ] Geen secrets, API-keys of klantdata in de diff
+- [ ] `.env.example` bijgewerkt als er nieuwe env vars zijn
+
+## Notities voor de reviewer
+
+<!-- Optioneel: dingen waar je specifiek op gereviewd wilt worden, twijfels, vervolgstappen. -->
