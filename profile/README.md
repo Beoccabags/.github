@@ -14,7 +14,7 @@ All vegetable-tanned. All hand-finished. No fast fashion.
 ## Where to find us
 
 [![Website](https://img.shields.io/badge/Shop-beocca.com-B79A6A?style=for-the-badge)](https://beocca.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@beocca-E9E0D1?style=for-the-badge&logo=instagram&logoColor=B79A6A)](https://www.instagram.com/beoccabags?igsh=MTZoNWdscjZtZzN6ZQ==)
+[![Instagram](https://img.shields.io/badge/Instagram-@beoccabags-E9E0D1?style=for-the-badge&logo=instagram&logoColor=B79A6A)](https://www.instagram.com/beoccabags?igsh=MTZoNWdscjZtZzN6ZQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-beocca--bags-B79A6A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/beocca-bags/)
 
 Also available on [Bol.com](https://bol.com), Amazon (NL / DE / FR), and Etsy.
